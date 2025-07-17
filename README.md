@@ -1,6 +1,6 @@
-# Streamify - Language Learning Social Platform
+MERN - TEMPLATE WITH AUTHENTICATION, TAILWIND, ZUSTAND, AND TANSTACK.
 
-A modern web application built with the MERN stack (MongoDB, Express.js, React, Node.js) that helps users connect with language learning partners worldwide.
+A modern web application built with the MERN stack (MongoDB, Express.js, React, Node.js)
 
 ## 🌟 Features
 
